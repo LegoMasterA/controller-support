@@ -1,3 +1,5 @@
+## **This repository is archived. It will no longer get updates. Sorry for any inconvenience!** 
+
 # controller-support
 Useful for easily accessing input for Xbox Gamepads.
 
